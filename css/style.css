@@ -62,6 +62,7 @@ p {
 
 
 .header {
+
     background-image: url(../images/head.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
